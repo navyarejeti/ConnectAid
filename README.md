@@ -101,7 +101,7 @@ Download the pre-built APK and install directly on your Android device:
 
 **Clone the Repository:**
 ```bash
-git clone https://github.com/t0bleronee/ConnectAid.git
+git clone https://github.com/navyarejeti/ConnectAid.git
 cd app-main
 ```
 
