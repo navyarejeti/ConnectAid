@@ -221,9 +221,6 @@ app/
 
 
 
-## Contact
-
-For questions, support, or collaboration inquiries, please open an issue in the repository.
 
 ---
 
