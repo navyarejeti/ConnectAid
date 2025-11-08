@@ -219,31 +219,7 @@ app/
 └── build.gradle.kts            # App-level build configuration
 ```
 
-## Development Status
 
-⚠️ **Current Status**: Active Development (University Project)
-
-The application is functional with core features implemented. Ongoing work includes:
-- Performance optimizations for large group communications
-- Enhanced security and encryption
-- Improved connection stability
-- Extended file type support
-- Multi-language support
-
-## Contributing
-
-This is a university project. Contributions, suggestions, and bug reports are welcome through issues and pull requests.
-
-## License
-
-[Specify License]
-
-## Acknowledgments
-
-- Built with modern Android development practices
-- Utilizes Jetpack Compose for declarative UI
-- Implements WiFi Direct for offline communication
-- Designed for emergency and disaster response scenarios
 
 ## Contact
 
