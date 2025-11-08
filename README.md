@@ -155,13 +155,6 @@ cd app-main
 |  ![chat dark screen](docs/home.jpg) | ![settings screen](docs/user.jpg) | ![info dark screen](docs/media.jpg) |
 
 
-### Screen Descriptions
-- **Home Screen**: View all contacts and recent conversations, access WiFi Direct connections, groups, and settings
-- **Chat Screen**: One-on-one messaging with support for text, files, audio messages, and voice calls
-- **Groups Screen**: Create and manage broadcast groups for multi-user communication
-- **Call Screen**: Voice call interface with mute, speaker, and end call controls
-- **Info Screen**: Contact details, shared media, and chat settings
-- **Settings Screen**: App configuration, profile management, and cloud backup options
 
 ## Project Structure
 
