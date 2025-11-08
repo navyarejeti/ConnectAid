@@ -146,11 +146,14 @@ cd app-main
 
 ## Screens
 
-| **Home Screen**               | **Chat Screen**               | **Info Screen**               |
+| **Home Screen**               | **One-to-One Chat Screen**               | **SOS Emergency Alert**               |
 |:-----------------------------:|:-----------------------------:|:-----------------------------:|
-| ![home screen](docs/home.jpg) | ![chat screen](docs/chat.jpg) | ![info screen](docs/info.jpg) |
-| **Settings Screen**           | **Chat Dark Screen**          | **Info Dark Screen**          |
-| ![settings screen](docs/settings.jpg) | ![chat dark screen](docs/chat-dark.jpg) | ![info dark screen](docs/info-dark.jpg) |
+| ![home screen](docs/chat-dark.jpg) | ![chat screen](docs/chat.jpg) | ![info screen](docs/info.jpg) |
+| **Groups Screen**           | **Group Chat Screen**          | **Create Group**          |
+|  ![chat dark screen](docs/group.jpg) | ![settings screen](docs/settings.jpg) | ![info dark screen](docs/info-dark.jpg) |
+| **Direct Call**           | **User Profile Settings**          | **Chat Media**          |
+|  ![chat dark screen](docs/home.jpg) | ![settings screen](docs/user.jpg) | ![info dark screen](docs/media.jpg) |
+
 
 ### Screen Descriptions
 - **Home Screen**: View all contacts and recent conversations, access WiFi Direct connections, groups, and settings
